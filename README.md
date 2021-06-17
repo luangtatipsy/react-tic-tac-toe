@@ -1,5 +1,5 @@
 # React Tic Tac Toe
-This repository is to demonstrate a [tutorial](https://reactjs.org/tutorial/tutorial.html) from Official [React](https://reactjs.org) and it was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository is to demonstrate [a tutorial](https://reactjs.org/tutorial/tutorial.html) from Official [React](https://reactjs.org) and it was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
